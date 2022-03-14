@@ -1,0 +1,19 @@
+post-title: This Is An Example Post
+post-date: 2022-03-09
+post-id: example-post
+
+Here's some text where I explain something, and then do some more explaining.
+
+This could happen over multiple paragraphs even
+Below this is a code block - it should get split over multiple lines
+
+```
+class QuickMeme < OtherMeme
+  def initialize(name)
+    @name = name
+  end
+end
+```
+
+Here is some more text at the end of the post.
+

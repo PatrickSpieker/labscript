@@ -1,0 +1,20 @@
+body {
+    background-color: #e5e5e5;
+    margin-left: 15vw;
+    margin-right: 15vw;
+    margin-top: 5vw;
+}
+
+h1,h2 {
+    font-family: tahoma;
+}
+
+p {
+    font-family: tahoma;
+    font-size: 16px;
+}
+
+li {
+    font-family: tahoma;
+    font-size: 16px; 
+}

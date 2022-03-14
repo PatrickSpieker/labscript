@@ -1,0 +1,10 @@
+post-title: First Post
+post-date: 2022-03-07
+post-title: first-post
+
+Here's some text where I explain something, and then do some more explaining.
+
+This could happen over multiple paragraphs even. 
+
+It could also include a photo:
+[[assets/example.png]]
